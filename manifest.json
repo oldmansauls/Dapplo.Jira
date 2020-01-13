@@ -1,0 +1,1740 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/LocalData/CSharpProjects/Dapplo.Jira/doc",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.AgileExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.AgileExtensions.html",
+          "hash": "LL1ZuM0MDiwHNkX4rOUw7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.AttachmentExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.AttachmentExtensions.html",
+          "hash": "1t6j6mX1dmgB4pOuFAx10g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IAgileDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IAgileDomain.html",
+          "hash": "vos7esBDFyAfVDJemwQGBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IAttachmentDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IAttachmentDomain.html",
+          "hash": "pcEj7MICdM1WJn2RTV50aA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IFilterDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IFilterDomain.html",
+          "hash": "5cwNULiKtGSlGgmN65p6LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IGreenhopperDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IGreenhopperDomain.html",
+          "hash": "16B/+MDmQN50WPsQPpmJuw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IIssueDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IIssueDomain.html",
+          "hash": "TPOrbV/Pg5WYcR/YdwDT8g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IJiraDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IJiraDomain.html",
+          "hash": "WGtsRMVxb5l+RkBD6TnOYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IProjectDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IProjectDomain.html",
+          "hash": "E55a2/CVO6//Jm2VMcVB8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IServerDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IServerDomain.html",
+          "hash": "FRPfk8a/v0zllHf4cXhbQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.ISessionDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.ISessionDomain.html",
+          "hash": "hISI0sPOjai7A1pRh0tL8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IUserDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IUserDomain.html",
+          "hash": "8Qi45UD4rXMC09qp+VvV2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.IWorkDomain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.IWorkDomain.html",
+          "hash": "wv+h+CeTEocHbMo8ttPkGA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Domains.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Domains.html",
+          "hash": "KHixJlq4A97rbCvyhDEjag=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.AgileIssue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.AgileIssue.html",
+          "hash": "jzeRNKnRtRSSVDAWPlF/EA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.AgileIssueFields.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.AgileIssueFields.html",
+          "hash": "uRCWTA0U6APu3oxmlHU0bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.AllowedValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.AllowedValue.html",
+          "hash": "t03aJzh3lY2EjtKY8TS8tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Attachment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Attachment.html",
+          "hash": "mNuAOyvL1IDb7sGbRBTZFQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.AttachmentContainer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.AttachmentContainer-1.html",
+          "hash": "lspq8ZG583bpAg8kgSkuWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.AvatarUrls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.AvatarUrls.html",
+          "hash": "/6TBYJp6+CpRO62GRELOUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.BaseId-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.BaseId-1.html",
+          "hash": "ywyPAUSESh/pfbsgSMde/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.BaseProperties-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.BaseProperties-1.html",
+          "hash": "pRo1lgPvckoBk+V498vRjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Board.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Board.html",
+          "hash": "qnXTiLRrINIsTFWiIPptHQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.BoardConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.BoardConfiguration.html",
+          "hash": "hR/vrwCidXO+zjqEinFqAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Changelog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Changelog.html",
+          "hash": "WiaOUXbTHNYxGFEjgatGAA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Column.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Column.html",
+          "hash": "9KT8KSvySqtYuI+N542FpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ColumnConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ColumnConfig.html",
+          "hash": "wl47GskQ8TeUGD2IX18nwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Comment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Comment.html",
+          "hash": "oUSI4BbZyS2EQM7C6bV3iw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Comments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Comments.html",
+          "hash": "GhOpUpHw0poqBa+fupDgTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Component.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Component.html",
+          "hash": "/o4g5h84xTNauNIti8mB1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ComponentDigest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ComponentDigest.html",
+          "hash": "uYSGcNbqvAs7pOUQLWG9WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Configuration.html",
+          "hash": "sUyHN/FxGFOY7Oaq7bMTkA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Epic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Epic.html",
+          "hash": "8koSf2DCX4/+tlwQ8OJHAQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.EpicColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.EpicColor.html",
+          "hash": "2SbGkcawPQksvXoQwAXjYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.EpicField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.EpicField.html",
+          "hash": "cRbwI9hZWq15a31S9S00Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Error.html",
+          "hash": "EIxaj03L4iWzRSTrnPVPvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.EstimationCustomFieldInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.EstimationCustomFieldInfo.html",
+          "hash": "ZHYXyNWSV7+OzG7WWeMb7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.EstimationFieldInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.EstimationFieldInfo.html",
+          "hash": "7hXa3RIM2P+XKvDeOvyHOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Field.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Field.html",
+          "hash": "l2Id3Z2jS2RevOHqMsv6OQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Filter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Filter.html",
+          "hash": "IBnbok+rYNIiGLrw+p0tow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.History.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.History.html",
+          "hash": "Z9zQEqsGd85Y+nAs61XuVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.HistoryItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.HistoryItem.html",
+          "hash": "gTQEpKIBq4rqTVKVa1tZ8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Issue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Issue.html",
+          "hash": "4zN6KbstbP0dEzTTxyoYCg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.IssueBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.IssueBase.html",
+          "hash": "zGZlPL4YeqTySSHPMVZklw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.IssueFields.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.IssueFields.html",
+          "hash": "K5geeVHvq6XsBe9yHFdf/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.IssueType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.IssueType.html",
+          "hash": "zalKTadJm7XYra4ayq71Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.IssueWithFields-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.IssueWithFields-1.html",
+          "hash": "+JYbjvzMig+26KO7huLh8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.JqlIssueSearch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.JqlIssueSearch.html",
+          "hash": "mtvuebnmUlVdVMgNiGpdrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.LoginInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.LoginInfo.html",
+          "hash": "577wdfjQP0Z5pTJk85aabg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Page.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Page.html",
+          "hash": "e8XC5SgePtEuncycxSbsjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.PageableResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.PageableResult.html",
+          "hash": "9XqzkoCvH6W3Jxf/O+XCFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.PossibleField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.PossibleField.html",
+          "hash": "AOiee/sy2OMjrDKNBDFScg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Priority.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Priority.html",
+          "hash": "xeFi1S+0GMffehotTfPTfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ProgressInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ProgressInfo.html",
+          "hash": "4SR5fzj7apd+Feie02BfaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Project.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Project.html",
+          "hash": "gNwUMNaLe25deMumsrgufw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ProjectCategory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ProjectCategory.html",
+          "hash": "XwqCzJ0alsqmW9p4nFnchA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ProjectDigest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ProjectDigest.html",
+          "hash": "AoMb4qpvhGEU7cOh7yirfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.RankingCustomFieldInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.RankingCustomFieldInfo.html",
+          "hash": "pon5xkMa+4RSHewBzbSJ4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.RemoteLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.RemoteLinks.html",
+          "hash": "TRTylI61iM6AHtSB9XQbwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ReportIssue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ReportIssue.html",
+          "hash": "9nUE3g6MLv9JD/e6kAbqMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Resolution.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Resolution.html",
+          "hash": "+3PsR0XIlXzqPyK65JM7hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Schema.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Schema.html",
+          "hash": "/UMJGBbxNFdz8239gPt/OA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.SearchIssuesResult-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.SearchIssuesResult-2.html",
+          "hash": "zbVuuiwkPf385vvyi+c2yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.SearchResult-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.SearchResult-2.html",
+          "hash": "c1xscd2Ba3a+ijUNrKNW2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ServerInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ServerInfo.html",
+          "hash": "cR2hegMoq6LKNYuNQNIwdw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.SharePermission.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.SharePermission.html",
+          "hash": "VeBpZmzyXR8SqKNVl9x35A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Sprint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Sprint.html",
+          "hash": "wPQj1QACoC55iuzv83Kf9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.SprintInReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.SprintInReport.html",
+          "hash": "TDdleLQeMyv6cXzglBswoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.SprintReport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.SprintReport.html",
+          "hash": "FSfRsoul3YoEQAyjErE+FA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.SprintReportContents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.SprintReportContents.html",
+          "hash": "pkLFLsCVsT7pK4HRGPli4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.StatisticField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.StatisticField.html",
+          "hash": "3jv8BEw9j/3IRXwElTH3cA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Status.html",
+          "hash": "L0XoH4kOaijZNvRH2aywxA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.StatusCategory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.StatusCategory.html",
+          "hash": "sQe7LixzdbMQ0jjzRfIcqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Subscription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Subscription.html",
+          "hash": "rlxAgeGgzKPsAmDtIfkaqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Subscriptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Subscriptions.html",
+          "hash": "kcoGDTMtvob/GLS/UcWcCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.TimeTracking.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.TimeTracking.html",
+          "hash": "axS9MWkHuhelGYt4ARqt2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.TimeTrackingConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.TimeTrackingConfiguration.html",
+          "hash": "ZWellwpHT2gtsN4CQ1ADNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Transition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Transition.html",
+          "hash": "f1/sLq+bynZYffa87XSZjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Transitions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Transitions.html",
+          "hash": "yg3prDBlVnc8JBTSgzSbSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.User.html",
+          "hash": "7R83T0R1KuvsqhlIA6BJ5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.ValueField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.ValueField.html",
+          "hash": "34LrUvFf7d+Qe6MYUS/Cqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Version.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Version.html",
+          "hash": "xBO5sKmKfzdINN76w0GUFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Visibility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Visibility.html",
+          "hash": "VMbKGs2BO0AlZDHQuZea5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.VoteInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.VoteInfo.html",
+          "hash": "8LpIcp01PnL/4TLNaP7wDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Watches.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Watches.html",
+          "hash": "hLI0Bd7iCSvHaAcfUTieLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Worklog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Worklog.html",
+          "hash": "7L0nLRzzkyy5onZPF+Qjrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.Worklogs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.Worklogs.html",
+          "hash": "hnxNGMbKVj5h6shh22BzmQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Entities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Entities.html",
+          "hash": "DyCNetvM+ikphymOSRj9Dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Enums.AdjustEstimate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Enums.AdjustEstimate.html",
+          "hash": "mjTqZ9cqijxiJI2Yrb+7NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Enums.AvatarSizes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Enums.AvatarSizes.html",
+          "hash": "l84b4l74NB8/W6OSK9kkPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Enums.BoardTypes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Enums.BoardTypes.html",
+          "hash": "yZsdxX2MhJDaHKbb8D7twQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Enums.FieldType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Enums.FieldType.html",
+          "hash": "GPjGm79j5EADAOCYB5mlpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Enums.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Enums.html",
+          "hash": "WAlXn+99i2mhfINdZrYFNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.FilterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.FilterExtensions.html",
+          "hash": "mHR6KVByNU788JnKD9G4jA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.GreenhopperExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.GreenhopperExtensions.html",
+          "hash": "UF+K+3aRyptotPiqea9Oqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.IJiraClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.IJiraClient.html",
+          "hash": "RGg5zHFdwGs5jb3vLXiFBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.IssueExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.IssueExtensions.html",
+          "hash": "S4MT+Pt8aG5bF15ZpjD8Mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.JiraClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.JiraClient.html",
+          "hash": "GkRBKpTgdZnD5Xm/DvWVQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.JiraConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.JiraConfig.html",
+          "hash": "ufiQfZZ+jDQXkmg3Nozbmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.JiraException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.JiraException.html",
+          "hash": "EH/Baduz6sHL93YC7j517Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Json.CustomDateTimeOffsetConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Json.CustomDateTimeOffsetConverter.html",
+          "hash": "LAZ9x8Nbn52jMeyjd9yfgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Json.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Json.html",
+          "hash": "0kGjik70PVeG1a3rA4furg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.ProjectExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.ProjectExtensions.html",
+          "hash": "c3aWOAjfREQZxl7dj81nKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.DatetimeClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.DatetimeClause.html",
+          "hash": "JJ1GzMuzhx7QxSzTmwKRoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.Fields.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.Fields.html",
+          "hash": "v3CHL8TtRC0uJ94sQwjtHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IDatetimeClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IDatetimeClause.html",
+          "hash": "UMvbHB5+ANr1kupoImDtLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IDatetimeClauseWithoutValue.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IDatetimeClauseWithoutValue.html",
+          "hash": "3/5RQVIp+Y2zBL79UjVylA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IFinalClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IFinalClause.html",
+          "hash": "lf2GHhyIlBjuJIES/MDSwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IIssueClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IIssueClause.html",
+          "hash": "HZMaABtjU8mcm5YmhYcn4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IProjectClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IProjectClause.html",
+          "hash": "WymPlW5K40x1B1mtxcQMMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.ISimpleValueClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.ISimpleValueClause.html",
+          "hash": "CfWiODizqrEtrPA2lpo1pQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IStatusClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IStatusClause.html",
+          "hash": "XzPE3tJB4TnZY4OUYb5hzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.ITextClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.ITextClause.html",
+          "hash": "5qo1r82R0uv1xlEGf6ZqDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.ITypeClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.ITypeClause.html",
+          "hash": "P7QCVbt0whAhmWoceX0V6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IUserClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IUserClause.html",
+          "hash": "oHGu43otFWOVGaWhY+3hKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IVersionClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IVersionClause.html",
+          "hash": "VJLFwHZXEoTPQ1DiUMUgzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.IssueClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.IssueClause.html",
+          "hash": "74xoBAd9V6XO7WYOfqz6sA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.Operators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.Operators.html",
+          "hash": "apx6H/se0n1w2zMHzs95jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.ProjectClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.ProjectClause.html",
+          "hash": "4zHGX/b//R7SjmfeY0g51Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.SimpleValueClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.SimpleValueClause.html",
+          "hash": "TL18gDDas34yEJcpzuQemw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.StatusClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.StatusClause.html",
+          "hash": "awEWjOYODv3Xpp9O3dYTmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.TextClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.TextClause.html",
+          "hash": "cBhXIrtr0JAsM5Wmhbl5yA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.TypeClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.TypeClause.html",
+          "hash": "5BaQeyktxV2XIhGiAMa+8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.UserClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.UserClause.html",
+          "hash": "gMz+C5N4JxcoAc/lgBmnZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.VersionClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.VersionClause.html",
+          "hash": "i3zru66rIHDHt2IwrY2Saw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.Where.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.Where.html",
+          "hash": "LVD7OA6vqkLBhixZMVl69Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.Query.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.Query.html",
+          "hash": "4HSXbRp2iONlgOSEZDlPMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.ServerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.ServerExtensions.html",
+          "hash": "qrRe9/vwB2RjP3oTUJqWug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.SessionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.SessionExtensions.html",
+          "hash": "4ToMEHXzrP/2/DWRdh4Oqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.TimeSpanExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.TimeSpanExtensions.html",
+          "hash": "90ZcSvjtBr9oGt4JFHN2Gw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.UserExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.UserExtensions.html",
+          "hash": "Q9elILKh9e4kp1C8n5eknA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.WorkExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.WorkExtensions.html",
+          "hash": "pxCSskcT1ImoujBiI5ygMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Dapplo.Jira.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Dapplo.Jira.html",
+          "hash": "P7FOMvwER3jYCU9HulDMRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "IfEBZT9w93pEgGzg7J1/NQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "2ck6Of8RZ7mLdcvIsXAlwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/queries.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/queries.html",
+          "hash": "9ydv2L+tMYx34JTUNO5n1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/d.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/d.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "images/favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.svg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "KYqYD2EXw6RWZIM6l11Gbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because last build info is missing.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "NoAvailableBuildCache"
+      },
+      "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 4,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 133,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: last post processor info is null.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
