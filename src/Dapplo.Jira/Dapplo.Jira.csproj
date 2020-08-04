@@ -1,11 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Description>A library for accessing Atlassians Jira from .NET</Description>
+    <Description>A library for accessing Atlassians Jira from .NET
+Mantained for use by Aristocrat</Description>
     <AssemblyTitle>Dapplo.Jira</AssemblyTitle>
     <TargetFrameworks>netstandard1.3;netstandard2.0;net461;netcoreapp3.1</TargetFrameworks>
     <AssemblyName>Dapplo.Jira</AssemblyName>
-    <PackageId>Dapplo.Jira</PackageId>
+    <PackageId>Dapplo.Jira.Aristocrat</PackageId>
     <PackageTags>atlassian;jira;dapplo</PackageTags>
+    <RepositoryUrl>https://github.com/oldmansauls/Dapplo.Jira</RepositoryUrl>
+    <Authors>Dapplo</Authors>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Dapplo.HttpExtensions" Version="1.0.3" />

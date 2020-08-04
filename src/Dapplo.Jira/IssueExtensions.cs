@@ -57,6 +57,25 @@ namespace Dapplo.Jira
 			return response.HandleErrors(HttpStatusCode.Created);
 		}
 
+        public static async Task<IList<IssueRemoteLink>> GetRemoteLinksAsync(this IIssueDomain jiraClient, string issueKey, CancellationToken cancellationToken = default)
+		{
+			if (issueKey == null)
+            {
+                throw new ArgumentNullException(nameof(issueKey));
+            }
+            Log.Debug().WriteLine("Retrieving issue information for {0}", issueKey);
+            var issueUri = jiraClient.JiraRestUri.AppendSegments("issue", issueKey, "remotelink");
+            // Add the configurable expand values, if the value is not null or empty
+            if (JiraConfig.ExpandGetIssue?.Length > 0)
+            {
+                issueUri = issueUri.ExtendQuery("expand", string.Join(",", JiraConfig.ExpandGetIssue));
+            }
+            jiraClient.Behaviour.MakeCurrent();
+
+            var response = await issueUri.GetAsAsync<HttpResponse<IList<IssueRemoteLink>, Error>>(cancellationToken).ConfigureAwait(false);
+            return response.HandleErrors();
+        }
+
 		/// <summary>
 		///     Get issue information
 		///     See: https://docs.atlassian.com/jira/REST/latest/#d2e4539
