@@ -57,6 +57,13 @@ namespace Dapplo.Jira
 			return response.HandleErrors(HttpStatusCode.Created);
 		}
 
+		/// <summary>
+		/// Returns the RemoteLinks for the specified issue.
+		/// </summary>
+		/// <param name="jiraClient">The JiraClient</param>
+		/// <param name="issueKey">The Issue Key to retrieve links for</param>
+		/// <param name="cancellationToken">A cancellation token for the task</param>
+		/// <returns>A Task representing the operation</returns>
         public static async Task<IList<IssueRemoteLink>> GetRemoteLinksAsync(this IIssueDomain jiraClient, string issueKey, CancellationToken cancellationToken = default)
 		{
 			if (issueKey == null)
